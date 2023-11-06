@@ -26,7 +26,7 @@ You can install the development version of package from [Github](https://github.
 
 ``` r
 # install.packages("devtools")
-devtools::install_github(stat545ubc-2023/residual_plot)
+devtools::install_github(stat545ubc-2023/ResidualPlot)
 ```
 
 ## Example
