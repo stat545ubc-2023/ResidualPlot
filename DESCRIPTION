@@ -1,0 +1,18 @@
+Package: package
+Title: Residual Plot for simple linear models 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nat", "MacMillan", , "nmac2000@student.ubc.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package creates a resiudal plot using the "lm" function to make the model and "ggplot2" to make the graph. The plot has the fitted results in the x axis and the residuals on the y axis.
+License: MIT + file LICENSE
+URL: https://github.com/stat545ubc-2023/residual_plot
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2,
+    stats
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
