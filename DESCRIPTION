@@ -1,6 +1,6 @@
 Package: ResidualPlot
 Title: Residual Plot for simple linear models 
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: 
     person("Nat", "MacMillan", , "nmac2000@student.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
