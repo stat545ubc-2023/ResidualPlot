@@ -1,18 +1,18 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# package
+# ResidualPlot
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of package is to make a residual plot for a simple linear
+The goal of ResidualPlot is to make a residual plot for a simple linear
 model. It contains the function *residual_plot* which makes a residual
 plot for the data given.
 
 ## Installation
 
-You can install the development version of package from
+You can install the development version of ResidualPlot from
 [Github](https://github.com/) with:
 
 ``` r
