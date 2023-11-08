@@ -7,7 +7,8 @@
 <!-- badges: end -->
 
 The goal of package is to make a residual plot for a simple linear
-model.
+model. It contains the function *residual_plot* which makes a residual
+plot for the data given.
 
 ## Installation
 
@@ -16,7 +17,7 @@ You can install the development version of package from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github(stat545ubc-2023/ResidualPlot)
+devtools::install_github("stat545ubc-2023/ResidualPlot")
 ```
 
 ## Example
@@ -24,7 +25,7 @@ devtools::install_github(stat545ubc-2023/ResidualPlot)
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(package)
+library(ResidualPlot)
 # Example 1
 x <- c(2,45,6,73,24,4,23,5,645,23,34,65) #random numbers
 y <- c(32,45,1,34,5,67,3,45,65,76,45,23) #random numbers
