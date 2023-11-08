@@ -1,4 +1,4 @@
-Package: package
+Package: ResidualPlot
 Title: Residual Plot for simple linear models 
 Version: 0.1.0
 Authors@R: 

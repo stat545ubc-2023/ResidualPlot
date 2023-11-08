@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(package)
+library(ResidualPlot)
 
-test_check("package")
+test_check("ResidualPlot")
